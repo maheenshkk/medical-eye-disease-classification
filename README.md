@@ -27,7 +27,7 @@ EyeDiseaseClassifier/
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/AHSAN-MEHMOOD/EyeDiseaseDetection.git
+   git clone https://github.com/maheenshkk/Medical-Eye-Disease-Classification.git
    cd EyeDiseaseClassifier
    ```
 
